@@ -1,0 +1,80 @@
+    1  pwd
+    2  pwd
+    3  ls
+    4  ls -l
+    5  ls -lh
+    6  cd Desktop
+    7  cd "thigs to learn directory"
+    8  cd..
+    9  cd ..
+   10  cd
+   11  cd Downloads
+   12  cd Desktop lcw2022
+   13  cd Desktop
+   14  cd
+   15  cd Desktop
+   16  lcw2022
+   17  lcw2022
+   18  cdw lcw2022
+   19  cd lcw2022
+   20  cd shell-lessons
+   21  cd shell-lesson
+   22  ls help
+   23  cd
+   24  ls --help
+   25  cd Desktop
+   26  ls - ls
+   27  ls s
+   28  cd ls
+   29  ls s
+   30  ls - ls
+   31  ls - s
+   32  ls --s
+   33  ls --ls
+   34  ls -S
+   35  cd lcw2022
+   36  ls
+   37  cd lcw2022/shell-lesson
+   38  ls
+   39  cd shell-lesson
+   40  pwe
+   41  pwd
+   42  mkdir firstdir
+   43  ls
+   44  cd firstdir
+   45  cd..
+   46  cd ..
+   47  cd 2014
+   48  cd
+   49  cd Desktop
+   50  cd lcw2022
+   51  cd shell-lesson
+   52  cd firstdir
+   53  cd shell-lesson
+   54  cd shell-lesson
+   55  cd Desktop/lcw2022
+   56  cd Desktop
+   57  cd
+   58  cd Desktop
+   59  cd lcw2022
+   60  cd shell-lesson
+   61  cat
+   62  pwd
+   63  cd Desktop
+   64  cd lcw2022
+   65  cd shell-lesson
+   66  head 829-0.txt
+   67  head 829-0.txt 33504-0.txt
+   68  head *.txt
+   69  head *.pdf
+   70  mv 829-0.txt gulliver.txt
+   71  ls
+   72  cp gulliver.txt gulliver-backup.txt
+   73  ls
+   74  ms firstdir backup
+   75  mv firstdir backup
+   76  ls
+   77  mv gulliver-backup.txt backup
+   78  ls
+   79  pwd
+   80  history > history.txt
